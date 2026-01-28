@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm Umar.</h1>
-<h3 align="center">Future software engineer</h3>
+# Hi, I'm Umar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulkset&label=Profile%20views&color=0e75b6&style=flat" alt="bulkset" /> </p>
+### Software Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bulkset" alt="bulkset" /></a> </p>
+## About Me
+- Software development and systems programming
+- Building projects in C, C++, Rust, Node.js
+- Databases, backend, low-level programming
 
-- 🌱 I’m currently learning **C, C++, C$, Rust.**
+## GitHub Stats
+[![bulkset's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulkset&show_icons=true&theme=graywhite)](https://github.com/bulkset)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/u-4770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u-4770" height="30" width="40" /></a>
-</p>
+## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+### Languages
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bulkset&show_icons=true&locale=en&layout=compact" alt="bulkset" /></p>
+### Runtime / Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bulkset&show_icons=true&locale=en" alt="bulkset" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bulkset&" alt="bulkset" /></p>
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=ffffff)
