@@ -1,28 +1,27 @@
 # Hi, I'm Umar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;Systems+Programming;Backend+%2F+Node.js;C+%7C+C%2B%2B+%7C+Rust+%7C+JS">
-</p>
+### Software Engineer
 
 ## About Me
 - Software development and systems programming
-- C, C++, Rust, Node.js
-- Backend, databases, low-level programming
+- Building projects in C, C++, Rust, Node.js
+- Databases, backend, low-level programming
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulkset&show_icons=true&theme=graywhite&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bulkset&theme=graywhite&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulkset&theme=minimal&hide_border=true" />
-</p>
+## GitHub Stats
+[![bulkset's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulkset&show_icons=true&theme=graywhite)](https://github.com/bulkset)
 
 ## Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,js,nodejs,postgres,linux,git&perline=8" />
-</p>
+### Languages
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+
+### Runtime / Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=ffffff)
